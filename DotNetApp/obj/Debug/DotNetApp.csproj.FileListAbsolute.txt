@@ -1,0 +1,7 @@
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\bin\Debug\DotNetApp.exe.config
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\bin\Debug\DotNetApp.exe
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\bin\Debug\DotNetApp.pdb
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\obj\Debug\DotNetApp.csproj.AssemblyReference.cache
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\obj\Debug\DotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\obj\Debug\DotNetApp.exe
+C:\Users\Sumon\Desktop\vs\DotNetApp\DotNetApp\obj\Debug\DotNetApp.pdb
